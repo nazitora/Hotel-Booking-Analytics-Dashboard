@@ -1,4 +1,4 @@
-# LuxeBook - Hotel Analytics & Bookings Dashboard
+# MyTravaly - Hotel Analytics & Bookings Dashboard
 
 LuxeBook is a premium, state-of-the-art hotel analytics dashboard built using **React**, **TypeScript**, **Vite**, and **Recharts**. It provides hotel operators with real-time insight into booking volumes, revenue collections, occupancy rates, conversion statistics, performance trends, and dynamic bookings tracking.
 
